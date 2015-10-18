@@ -37,10 +37,10 @@ See how [you can build a Todo Tracking App in Volt in 10 minutes](https://www.yo
 * [Textmate bundle for Volt](https://github.com/jonah-potter/volt.tmbundle)
 
 #### Volt Tutorials
-* [Sample todo App][http://docs.voltframework.com/en/tutorial/a_sample_todo_app.html]: step by step tutorial for a simple todo app
+* [Sample todo App](http://docs.voltframework.com/en/tutorial/a_sample_todo_app.html): step by step tutorial for a simple todo app
 * [Rick Carlino series](http://datamelon.io/blog/) see also [Github](https://github.com/DataMelon)
 
-##### Volt Components
+#### Volt Components
 * [volt-fields](https://github.com/voltrb/volt-fields)
 * [volt-user_templates](https://github.com/voltrb/volt-user_templates)
 * [volt-pagination](https://github.com/voltrb/volt-pagination)
@@ -69,7 +69,7 @@ See how [you can build a Todo Tracking App in Volt in 10 minutes](https://www.yo
 * [iandonovan/blackjack-volt](https://github.com/iandonovan/blackjack-volt)
 * [volt_twitter_clone](https://github.com/fry1026/volt_twitter_clone)
 * [balmoral/volt-highcharts-app](https://github.com/balmoral/volt-highcharts-app) Example app demonstrating volt-highcharts
-* [heri/kutoa](https://github.com/heri/kutoa)
+* [heri/kutoa](https://github.com/heri/kutoa) Connectin refugees and donators #Aidrefugees
 * [xurde/voltchat](https://github.com/xurde/voltchat)
 * [kodi0/voltblog](https://github.com/kodi0/voltblog)
 
