@@ -3,48 +3,43 @@
 
 A collection of awesome things regarding Volt ecosystem.
 
-- [Volt](#Volt)
-  - [Volt General Resources](#Volt-general-resources)
-  - [Volt Community](#Volt-community)
-  - [Volt Tools](#Volt-Tools)
-  - [Volt Tutorials](#Volt-Tutorials)
-  - [Volt Components](#Volt-Components)
+- [Volt](#volt)
+  - [Volt General Resources](#volt-general-resources)
+  - [Volt Community](#volt-community)
+  - [Volt Tools](#volt-tools)
+  - [Volt Tutorials](#volt-tutorials)
+  - [Volt Components](#volt-components)
 - [Videos](#videos)
 - [Demos and Apps](#demos-and-apps)
-- [Contribution](#Contribution)
-- [License](#License)
+- [Contribution](#contribution)
 
 ---
-## Volt
+### Volt
 > A Ruby web framework where your Ruby runs on both server and client
 
 See how [you can build a Todo Tracking App in Volt in 10 minutes](https://www.youtube.com/watch?v=KbFtIt7-ge8)
 
----
-### Volt General Resources
+#### Volt General Resources
 * [Volt Official Site](http://voltframework.com/docs)
 * [Volt GitHub](https://github.com/voltrb/volt)
 * [Volt Official docs](https://github.com/voltrb/volt) in English, japanese and spanish
 
----
-### Volt Community
+#### Volt Community
 * [Volt Gitter](https://gitter.im/voltrb/volt)
 * [Volt StackOverflow](http://stackoverflow.com/questions/tagged/voltrb)
 * [Volt Twitter](https://twitter.com/voltframework)
 * [Volt Subreddit](https://www.reddit.com/r/voltframework)
 * [Volt Blog](http://voltframework.com/blog)
 
----
-### Volt Tools
+#### Volt Tools
 * [Textmate bundle for Volt](https://github.com/jonah-potter/volt.tmbundle)
+* [BrowserIrb](https://github.com/voltrb/volt-browser_irb) Provides an irb like terminal in the browser
 
----
-### Volt Tutorials
+#### Volt Tutorials
 * [Sample todo App](http://docs.voltframework.com/en/tutorial/a_sample_todo_app.html): step by step tutorial for a simple todo app
 * [Rick Carlino series](http://datamelon.io/blog/) see also [Github](https://github.com/DataMelon)
 
----
-### Volt Components
+#### Volt Components
 * [volt-fields](https://github.com/voltrb/volt-fields)
 * [volt-user_templates](https://github.com/voltrb/volt-user_templates)
 * [volt-pagination](https://github.com/voltrb/volt-pagination)
@@ -55,6 +50,7 @@ See how [you can build a Todo Tracking App in Volt in 10 minutes](https://www.yo
 * [volt-braintree](https://github.com/cbetta/volt-braintree) Unofficial Braintree component for Volt that provides you with a way to load the Braintree
 * [volt-highcharts](https://github.com/balmoral/volt-highcharts)
 * [matthew342/volt-easypiechart](https://github.com/matthew342/volt-easypiechart) Simple Volt component to use the EasyPieChart jQuery plugin
+* [volt-bootflat](https://github.com/voltrb/volt-bootflat) Bootflat Bootstrap theme
 * [volt-usa](https://github.com/heri/volt-usa) 18F US Web Design framework
 * [volt-foundation](https://github.com/voltrb/volt-foundation) volt component to add zurb foundation
 * [volt-awesome](https://github.com/heri/volt-awesome) theme based on Font Awesome
