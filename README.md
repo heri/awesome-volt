@@ -6,41 +6,45 @@ A collection of awesome things regarding Volt ecosystem.
 - [Volt](#Volt)
   - [Volt General Resources](#Volt-general-resources)
   - [Volt Community](#Volt-community)
-  - [Volt Community](#Volt-tools)
-  - [Volt Tutorials](#Volt-tutorials)
+  - [Volt Tools](#Volt-Tools)
+  - [Volt Tutorials](#Volt-Tutorials)
   - [Volt Components](#Volt-Components)
 - [Videos](#videos)
 - [Demos and Apps](#demos-and-apps)
-- [Contribution](#contribution)
-
+- [Contribution](#Contribution)
+- [License](#License)
 
 ---
-### Volt
+## Volt
 > A Ruby web framework where your Ruby runs on both server and client
 
 See how [you can build a Todo Tracking App in Volt in 10 minutes](https://www.youtube.com/watch?v=KbFtIt7-ge8)
 
-
-#### Volt General Resources
+---
+### Volt General Resources
 * [Volt Official Site](http://voltframework.com/docs)
 * [Volt GitHub](https://github.com/voltrb/volt)
 * [Volt Official docs](https://github.com/voltrb/volt) in English, japanese and spanish
 
-#### Volt Community
+---
+### Volt Community
 * [Volt Gitter](https://gitter.im/voltrb/volt)
 * [Volt StackOverflow](http://stackoverflow.com/questions/tagged/voltrb)
 * [Volt Twitter](https://twitter.com/voltframework)
 * [Volt Subreddit](https://www.reddit.com/r/voltframework)
 * [Volt Blog](http://voltframework.com/blog)
 
-#### Volt Tools
+---
+### Volt Tools
 * [Textmate bundle for Volt](https://github.com/jonah-potter/volt.tmbundle)
 
-#### Volt Tutorials
+---
+### Volt Tutorials
 * [Sample todo App](http://docs.voltframework.com/en/tutorial/a_sample_todo_app.html): step by step tutorial for a simple todo app
 * [Rick Carlino series](http://datamelon.io/blog/) see also [Github](https://github.com/DataMelon)
 
-#### Volt Components
+---
+### Volt Components
 * [volt-fields](https://github.com/voltrb/volt-fields)
 * [volt-user_templates](https://github.com/voltrb/volt-user_templates)
 * [volt-pagination](https://github.com/voltrb/volt-pagination)
