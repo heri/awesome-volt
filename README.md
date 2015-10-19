@@ -67,9 +67,14 @@ See how [you can build a Todo Tracking App in Volt in 10 minutes](https://www.yo
 ### Demos and Apps
 > Applications done with Volt
 
+* [Opal-Phaser](http://opalphaser.com/) an Opal wrapper for the Phaser framework, to write Canvas or WebGL games in Ruby. [Source](https://github.com/orbitalimpact/opal-phaser-site)
+* [volt-highcharts-app](http://volt-highcharts-app.herokuapp.com/) A whimsical demonstration of highly-reactive Ruby+Opal+Volt wrap of Highcharts JS. [source](https://github.com/balmoral/volt-highcharts-app)
+* [unjustice](http://unjustice.herokuapp.com/), your companion to navigating the St Louis Municipal Court System.
+* [ThirdEye](https://github.com/jikkujose/third_eye) Real time monitoring system for crowd sourced traffic events
+* [](http://www.timeformattingisannoying.com/) A simple Volt app for fiddling with strftime formatting. [Source](https://github.com/neurodynamic/rubytime)
+* [volt chat](https://voltchat.herokuapp.com/)
 * [iandonovan/blackjack-volt](https://github.com/iandonovan/blackjack-volt)
-* [volt_twitter_clone](https://github.com/fry1026/volt_twitter_clone)
-* [balmoral/volt-highcharts-app](https://github.com/balmoral/volt-highcharts-app) Example app demonstrating volt-highcharts
+* [volt_twitter_clone](https://immense-plains-7200.herokuapp.com/) [source](https://github.com/fry1026/volt_twitter_clone)
 * [heri/kutoa](https://github.com/heri/kutoa) Connectin refugees and donators #Aidrefugees
 * [xurde/voltchat](https://github.com/xurde/voltchat)
 * [kodi0/voltblog](https://github.com/kodi0/voltblog)
