@@ -86,7 +86,31 @@ See how [you can build a Todo Tracking App in Volt in 10 minutes](https://www.yo
 * [Building a Todo Tracking App in Volt in 10 minutes](https://www.youtube.com/watch?v=KbFtIt7-ge8)
 * [What is Volt in 6 min](https://www.youtube.com/watch?v=P27EPQ4ne7o)
 * [RubyConf 2014 - Isomorphic App Development with Ruby and Volt by Ryan Stout](https://www.youtube.com/watch?v=7i6AL7Walc4)
-* [Rick Carlino](https://www.youtube.com/channel/UCBI0CaBxYGClAahLyFywg2A)
+* [Routes and Templates in Volt](https://www.youtube.com/watch?v=1yNMP3XR6jU)
+
+#### @RickCarlion's Screencast Series
+* [Episode 19: Recurring Volt Background Jobs with Clockwork Gem](https://www.youtube.com/watch?v=5aeIclexFs0)
+* [Episode 17: Promises Objects in Volt / Opal](https://www.youtube.com/watch?v=YRqod0qNGWg)
+* [Episode 15: Pagination of Volt Collections](https://www.youtube.com/watch?v=mFBo6f-I-jQ)
+* [Episode 13: Routes and Multi-View apps](https://www.youtube.com/watch?v=cpOFL5u3Ykw)
+* [Episode 12: Volt-Mailer gem (premium)](https://www.youtube.com/watch?v=2xjwxhC3Jfc)
+* [Episode 11: A Payment Form with Stripe and Volt](https://www.youtube.com/watch?v=o13w8n7TMLY)
+* [Episode 10: Six Concepts for New Volt Framework](https://www.youtube.com/watch?v=x1yPgUUG0Js)
+* [Episode 9: Twitter Clone Demoing Volt User Permissions](https://www.youtube.com/watch?v=wFUkVqPOka4)
+* [Episode 8: Using JS Libraries in Opal](https://www.youtube.com/watch?v=B0b7l4hG-C8)
+* [Episode 7: Volt Runners, Database Seeds and Faker](https://www.youtube.com/watch?v=HG4L0WFagbM)
+* [Episode 6: Productivity with the Volt Component Ecosystem](https://www.youtube.com/watch?v=whbYM7Jd7M8)
+* [Episode 5: Static Frontend Apps with Ruby](https://www.youtube.com/watch?v=5NHU0865tj0)
+* [Episode 4: Volt APIs](https://www.youtube.com/watch?v=J7tg76CothM)
+* [Episode 3: Understanding Volt Views, Tags and ModelControllers](https://www.youtube.com/watch?v=UnQCEeo7gKE)
+* [Episode 2: Building a realtime chat app in Volt](https://www.youtube.com/watch?v=rc4GR04KUy0)
+* [Episode 1: Understanding Volt::Task objects in the Volt Framework](https://www.youtube.com/watch?v=th0UKrSFdo0)
+
+**Ricks Premium Videos**
+
+* [Deploying Volt Apps to Heroku](http://blog.datamelon.io/blog/2015/deploying-volt-apps-to-heroku.html)
+* [Building a CORS App in Volt](http://blog.datamelon.io/blog/2015/building-cors-apis-in-volt.html)
+* [Advanced Routing and Templating](http://blog.datamelon.io/blog/2015/advanced-routing-and-templating.html)
 
 ---
 ### Contribution
