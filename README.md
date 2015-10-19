@@ -37,7 +37,7 @@ See how [you can build a Todo Tracking App in Volt in 10 minutes](https://www.yo
 
 #### Volt Tutorials
 * [Sample todo App](http://docs.voltframework.com/en/tutorial/a_sample_todo_app.html): step by step tutorial for a simple todo app
-* [Rick Carlino series](http://datamelon.io/blog/) see also [Github](https://github.com/DataMelon)
+* [Rick Carlino series](http://datamelon.io/blog/) see also [videos](#videos) below
 
 #### Volt Components
 * [volt-fields](https://github.com/voltrb/volt-fields)
@@ -88,7 +88,7 @@ See how [you can build a Todo Tracking App in Volt in 10 minutes](https://www.yo
 * [RubyConf 2014 - Isomorphic App Development with Ruby and Volt by Ryan Stout](https://www.youtube.com/watch?v=7i6AL7Walc4)
 * [Routes and Templates in Volt](https://www.youtube.com/watch?v=1yNMP3XR6jU)
 
-#### @RickCarlion's Screencast Series
+#### @RickCarlino's Screencast Series
 * [Episode 19: Recurring Volt Background Jobs with Clockwork Gem](https://www.youtube.com/watch?v=5aeIclexFs0)
 * [Episode 17: Promises Objects in Volt / Opal](https://www.youtube.com/watch?v=YRqod0qNGWg)
 * [Episode 15: Pagination of Volt Collections](https://www.youtube.com/watch?v=mFBo6f-I-jQ)
