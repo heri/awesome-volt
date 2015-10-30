@@ -46,6 +46,7 @@ See how [you can build a Todo Tracking App in Volt in 10 minutes](https://www.yo
 * [volt-google_maps](https://github.com/voltrb/volt-google_maps)
 * [volt-code_highlight](https://github.com/voltrb/volt-code_highlight)
 * [volt-datepicker](https://github.com/voltrb/volt-datepicker)
+* [volt-redis_message_bus](https://github.com/voltrb/volt-redis_message_bus)
 * [volt-upload](https://github.com/alexandred/volt-upload) File upload support for Volt. Supports storing to the database, local storage and Cloudinary
 * [volt-upload](https://github.com/andrew-carroll/volt-upload) Drop-in file upload support
 * [volt-braintree](https://github.com/cbetta/volt-braintree) Unofficial Braintree component for Volt that provides you with a way to load the Braintree
