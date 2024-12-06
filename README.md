@@ -22,7 +22,7 @@ See how [you can build a Todo Tracking App in Volt in 10 minutes](https://www.yo
 #### Volt General Resources
 * [Volt Official Site](http://voltframework.com/docs)
 * [Volt GitHub](https://github.com/voltrb/volt)
-* [Volt Official docs](https://github.com/voltrb/volt) in English, japanese and spanish
+* [Volt Official docs](http://docs.voltframework.com) in English, japanese and spanish
 
 #### Volt Community
 * [Volt Gitter](https://gitter.im/voltrb/volt)
